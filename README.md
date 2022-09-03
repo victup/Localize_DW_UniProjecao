@@ -7,7 +7,7 @@ Simula um site como espécie de mapa online, que reune empreendimentos como cine
 ## Tela inicial
 
 ![Tela inicial 1](https://user-images.githubusercontent.com/38474570/188251155-48209231-b977-4838-841c-d8570a729c7b.png)
-
+ 
 ## Tela Catálogo
 
 ![img 2](https://user-images.githubusercontent.com/38474570/188251163-f3ff16b6-ed2b-472b-9b89-461b66069c4d.png)
